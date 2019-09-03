@@ -1,0 +1,16 @@
+{
+"companyName": "Alliance Bank Malaysia Berhad",
+"productName": "AEIOU 5 E-Game Challenge",
+"productVersion": "2.0",
+"dataUrl": "Build 03092019 v2.data.unityweb",
+"wasmCodeUrl": "Build 03092019 v2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 03092019 v2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#989797",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0b1"
+}
